@@ -1,0 +1,21 @@
+# ninja log v5
+7	595	7243657179676997	CMakeFiles/praktikum_10_2_FH_Aachen_MyRectangle.dir/MyCanvas.cpp.obj	1f465c911f506f
+22	723	7243672152729281	CMakeFiles/praktikum_10_2_FH_Aachen_MyRectangle.dir/MyRectangle.cpp.obj	edea79064fa7e42a
+10	1395	7243653346900915	CMakeFiles/praktikum_10_2_FH_Aachen_MyRectangle.dir/test_MyCanvas.cpp.obj	8687fa1960f5f18a
+10	1134	7243672156830773	CMakeFiles/praktikum_10_2_FH_Aachen_MyRectangle.dir/main.cpp.obj	ac8a0cff803b6f84
+31	894	7243672154428652	CMakeFiles/praktikum_10_2_FH_Aachen_MyRectangle.dir/test_MyRectangle.cpp.obj	445e1ea1dc2a71e8
+1134	1311	7243672158565643	praktikum_10_2_FH_Aachen_MyRectangle.exe	73ce19056127b879
+99	2091	7244562336631237	CMakeFiles/praktikum_10_2_FH_Aachen_MyRectangle.dir/MyRectangle.cpp.obj	edea79064fa7e42a
+89	2094	7244562336666363	CMakeFiles/praktikum_10_2_FH_Aachen_MyRectangle.dir/MyCanvas.cpp.obj	1f465c911f506f
+114	2124	7244562337550657	CMakeFiles/praktikum_10_2_FH_Aachen_MyRectangle.dir/test_MyRectangle.cpp.obj	445e1ea1dc2a71e8
+133	2442	7244562340778612	CMakeFiles/praktikum_10_2_FH_Aachen_MyRectangle.dir/test_MyCanvas.cpp.obj	8687fa1960f5f18a
+11	2531	7244562341691647	CMakeFiles/praktikum_10_2_FH_Aachen_MyRectangle.dir/main.cpp.obj	ac8a0cff803b6f84
+2531	2971	7244562346007695	praktikum_10_2_FH_Aachen_MyRectangle.exe	73ce19056127b879
+10	1048	7245357165314958	CMakeFiles/praktikum_10_2_FH_Aachen_MyRectangle.dir/MyCanvas.cpp.obj	1f465c911f506f
+1049	1498	7245357169755159	praktikum_10_2_FH_Aachen_MyRectangle.exe	73ce19056127b879
+7	723	7245357242406132	CMakeFiles/praktikum_10_2_FH_Aachen_MyRectangle.dir/MyCanvas.cpp.obj	1f465c911f506f
+724	977	7245357244837000	praktikum_10_2_FH_Aachen_MyRectangle.exe	73ce19056127b879
+7	651	7245357862133522	CMakeFiles/praktikum_10_2_FH_Aachen_MyRectangle.dir/MyCanvas.cpp.obj	1f465c911f506f
+652	909	7245357864563908	praktikum_10_2_FH_Aachen_MyRectangle.exe	73ce19056127b879
+8	639	7245358284881997	CMakeFiles/praktikum_10_2_FH_Aachen_MyRectangle.dir/MyCanvas.cpp.obj	1f465c911f506f
+640	866	7245358287069467	praktikum_10_2_FH_Aachen_MyRectangle.exe	73ce19056127b879
